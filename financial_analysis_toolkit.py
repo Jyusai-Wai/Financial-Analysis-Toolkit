@@ -1,4 +1,3 @@
-The Refactored Python Script (`financial_analysis_toolkit.py`)
 
 ```python
 import pandas as pd
